@@ -1,2 +1,6 @@
 The first line
+<<<<<<< HEAD
 The 3rd line
+=======
+The second line
+>>>>>>> newBranch
